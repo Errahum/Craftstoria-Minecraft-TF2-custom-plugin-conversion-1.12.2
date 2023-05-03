@@ -1,0 +1,11 @@
+name: TF2
+version: '${project.version}'
+main: ${project.groupId}.tf2.TF2
+api-version: 1.11.2
+authors: [chaseoes, psycowithespn, Sahurows]
+description: TF2 plugin 1.11.2 conversion
+website: craftstoria.net
+commands:
+  ${project.name}:
+    description: The central command for ${project.name}.
+    usage: /${project.name} <command> [args]
