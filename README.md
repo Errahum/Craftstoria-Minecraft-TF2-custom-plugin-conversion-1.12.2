@@ -1,7 +1,7 @@
 # Craftstoria-Minecraft-TF2-custom-plugin-conversion-1.12.2
 
 This is a Minecraft plugin that I modified for my Minecraft server. 
-This is my first Minecraft plugin and the code is not finished.
+This is my first Minecraft plugin and the project is still WIP.
 I changed almost all the base code. 
 The plugin does not work the same way as before.
 
