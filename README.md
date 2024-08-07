@@ -9,7 +9,7 @@ The plugin does not work the same way as before.
 The plugin is not user friendly and has been used with other plugins in my Minecraft server.
 I'll make a tutorial soon to use it.
 
-# Gameplay with other plugin:
+# Gameplay with other plugins:
 [![Alt text](https://i.imgur.com/0Vuxehw.png)](https://youtu.be/2lIhdZwuM_I)
 
 ------------------------------------------------------------------
