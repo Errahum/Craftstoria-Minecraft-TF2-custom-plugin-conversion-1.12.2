@@ -238,6 +238,7 @@ public class TF2 extends JavaPlugin {
         if (plugin.equalsIgnoreCase("WorldEdit")) {
             return "http://dev.bukkit.org/server-mods/worldedit/";
         }
+		
         return "";
     }
 }
