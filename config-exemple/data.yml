@@ -1,0 +1,11 @@
+enabled-maps:
+- castle2
+lobby:
+  w: CreationSpawn
+  x: 0
+  y: 161
+  z: -54
+  pitch: -1.8335887
+  yaw: 179.9558
+lobbywall: {}
+disabled-maps: []

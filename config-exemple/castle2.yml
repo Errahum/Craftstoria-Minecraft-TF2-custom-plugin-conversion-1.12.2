@@ -1,0 +1,48 @@
+region:
+  p1:
+    w: castle2
+    x: -180
+    y: 61
+    z: -48
+  p2:
+    w: castle2
+    x: 122
+    y: 184
+    z: 164
+playerlimit: 20
+teleport-red-team: 30
+timelimit: 420
+red:
+  spawn:
+    w: castle2
+    x: 127
+    y: 65
+    z: -17
+    pitch: 35.830994
+    yaw: 97.545685
+  lobby:
+    w: castle2
+    x: 80
+    y: 60
+    z: -94
+    pitch: 17.076355
+    yaw: 88.219025
+blue:
+  lobby:
+    w: castle2
+    x: 247
+    y: 66
+    z: -57
+    pitch: 14.090382
+    yaw: 0.21533203
+  spawn:
+    w: castle2
+    x: -95
+    y: 117
+    z: 69
+    pitch: 14.090317
+    yaw: 178.06859
+capture-points:
+  '1': castle2.51.65.81.94.08749.18.752876
+  '2': castle2.-112.107.-3.181.04373.88.99693
+  '3': castle2.-35.118.45.270.6777.52.58734

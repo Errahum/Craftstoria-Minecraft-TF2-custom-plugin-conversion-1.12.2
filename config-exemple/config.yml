@@ -1,0 +1,102 @@
+# 
+#  hostname: localhost
+#  database_name: my_database
+#  username: username
+#  password: password
+#  port: 3306
+
+countdown: 10
+capture-timer: 5
+autostart-percent: 20
+class-button-noperm: '&eYou do not have permission to use that class!'
+afk-timer: 120
+killstreaks: 5
+default-localization: english
+potion-effects-after-start: false
+gamemode: adventure
+prevent-inventory-moving: true
+debug: false
+broadcast-winning-team: true
+prevent-block-breaking: false
+map-rotation: false
+capture-reminder: 15
+lightning-while-capturing: false
+capture-point-signs: true
+capture-in-order: false
+dedicated-join: false
+scoreboard: false
+run-commands:
+  on-point-capture:
+  - addbalance %player Silver 10
+  on-kill:
+  - addbalance %player Silver 30
+  on-red-win:
+  - addbalance %player Silver 40
+  on-blue-win:
+  - addbalance %player Silver 40
+  on-Change-World:
+  - null
+killsound:
+  sound: ENTITY_CAT_HURT
+  volume: 20
+  pitch: -20
+LobbyName: CreationSpawn
+LobbyCoord:
+  x: 122
+  y: 36
+  z: -229
+MapName1: castle2
+LobbyMaps1:
+  RedLobby1:
+    x: 80.471
+    y: 60
+    z: -93.508
+  BlueLobby1:
+    x: 247.517
+    y: 66
+    z: -56.522
+SpawnMaps1:
+  RedSpawn1:
+    x: 127.006
+    y: 65
+    z: -16.998
+    yRot: -3.1
+    xRot: 92.2
+  BlueSpawn1:
+    x: -94.992
+    y: 117
+    z: 70.114
+    xRot: 179.5
+    yRot: -2.3
+MapName2: castle1
+LobbyMaps2:
+  RedLobby2:
+    x: 80.471
+    y: 60
+    z: -93.508
+  BlueLobby2:
+    x: 247.517
+    y: 66
+    z: -56.522
+SpawnMaps2:
+  RedSpawn2:
+    x: 127.006
+    y: 65
+    z: -16.998
+    yRot: -3.1
+    xRot: 92.2
+  BlueSpawn2:
+    x: -94.992
+    y: 117
+    z: 70.114
+    xRot: 179.5
+    yRot: -2.3
+stats-database:
+  enabled: false
+  hostname: localhost
+  database_name: my_database
+  username: username
+  password: password
+  port: 3306
+LobbyMaps: {}
+SpawnMaps: {}
